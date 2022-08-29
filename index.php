@@ -15,7 +15,7 @@
         <main class="main-content">
             <div class="inner-content">
                 <h2 class="inner-heading">Find Square Number</h2>
-                <input type="tel" class="input-box" id="sqNum" value="" />
+                <input type="number" class="input-box" id="sqNum" value="" />
                 <br />
                 <button onclick="sqNum()" class="btn">Find Square Number</button>
                 <br />
@@ -23,7 +23,7 @@
             </div>
             <div class="inner-content">
                 <h2 class="inner-heading">Find Square Root</h2>
-                <input type="text" class="input-box" id="sqRoot" value="" />
+                <input type="number" class="input-box" id="sqRoot" value="" />
                 <br />
                 <button onclick="sqRoot()" class="btn">Find Square Root</button>
                 <br />
